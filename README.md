@@ -1,5 +1,7 @@
 # Razorpay Clone Website
 
+![](/Razorpay-Clone/images/logo.svg?raw=true "Employee Data title")
+
 A responsive website clone of Razorpay created using HTML5 and Tailwind CSS.
 
 ## Description
