@@ -1,7 +1,5 @@
 # Razorpay Clone Website
 
-![Razorpay](/repository/Razorpay-Clone/images/logo.svg?raw=true "Razorpay")
-
 A responsive website clone of Razorpay created using HTML5 and Tailwind CSS.
 
 ## Description
